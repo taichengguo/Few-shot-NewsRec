@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="guot0a@kw60939:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="60939">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guot0a/FewNewsRec/Final_Model" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guot0a@kw60939:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guot0a/FewNewsRec/Final_Model" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guot0a@kw60976:22 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guot0a/Research/FewNewsRec/Final_Model" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guot0a@kw60976:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/guot0a/Research/FewNewsRec/Final_Model" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
